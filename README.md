@@ -4,3 +4,4 @@
 ### This Course is very good, has explained every bit of info in details. One of the best course on Git and Github.
 
 This course is for 4 weeks.
+It has detailed video on both Git and Github.
